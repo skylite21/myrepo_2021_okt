@@ -1,3 +1,3 @@
 <?php
 //start the project here
-echo "hello\n";
+// echo "hello\n";
