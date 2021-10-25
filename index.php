@@ -1,6 +1,6 @@
 <?php
 
-$x = 30;
+$w = 30;
 
 
 //start the project here
