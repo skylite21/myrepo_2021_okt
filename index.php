@@ -1,6 +1,9 @@
 <?php
 
 $w = 4000;
+  # car_id = db.Column(db.Integer, db.ForeignKey('cars.id'), unique=True)
+  # car_id = db.Column(db.Integer, db.ForeignKey('cars.id'), unique=True)
+  # car_id = db.Column(db.Integer, db.ForeignKey('cars.id'), unique=True)
 
 
 //start the project here
